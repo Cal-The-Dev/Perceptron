@@ -1,4 +1,4 @@
-In order to run our program, we used Anaconda's Spyder IDE.   I reccomend using this to test the program.
+In order to run our program, we used Anaconda's Spyder IDE.   I suggest using this to test the program.
 
 For our first question, the binary implementation of a perceptron, we have assignment1v2-binary.py   on line 58
 the classes used for comparison can be modified (1,2 & 3 respectively for our data as input options) Once 
